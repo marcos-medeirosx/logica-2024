@@ -1,0 +1,43 @@
+Portugal
+
+variaveis nome:
+
+cadeia = string ou texto ("")
+inteiro = int ou numero inteiro
+real = numeros fracionados
+logico = boleano verdadeiro ou falso
+
+const = imutavel a constante
+
+se (nome=="Marcos"){
+	escreva("bem vindo ao curso")
+}senao{
+	escreva("não matriculado")
+
+ou e nao
+
+escolha caso
+
+
+
+	escolha(operador){
+
+			caso "+": escreva("Domingo")
+			pare
+			caso "-": escreva("Segunda")
+			pare
+			caso "/": escreva("Terça")
+			pare
+			caso "*": escreva("Quarta")
+			pare
+	
+			caso contrario: escreva("Opção inválida")
+			pare
+
+
+
+estrutura de repetição
+
+faca
+pare 
+enquanto
